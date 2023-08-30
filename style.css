@@ -1,0 +1,19 @@
+header div{
+    background-image: url(https://internacional.com.br/static/placeholderNews2x-b5e64e028d55c1eeefc9cdf05a83b20f.png);
+    height: 390px;
+    width: 100%;
+}
+main{
+    text-align: center;
+    padding: 100px;
+}
+cardi-text 1{
+
+}
+
+footer{
+    background-color: red;
+    width: 100%;
+    height: 100px;
+    color: aliceblue;
+}
